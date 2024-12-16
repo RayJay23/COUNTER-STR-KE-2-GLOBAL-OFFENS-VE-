@@ -1,0 +1,65 @@
+"AppState"
+{
+	"appid"		"730"
+	"universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"Counter-Strike 2"
+	"StateFlags"		"4"
+	"installdir"		"Counter-Strike Global Offensive"
+	"LastUpdated"		"1734132287"
+	"LastPlayed"		"1734310464"
+	"SizeOnDisk"		"49317838419"
+	"StagingSize"		"0"
+	"buildid"		"16687167"
+	"LastOwner"		"76561199499639024"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"732"
+		{
+			"manifest"		"2686869445712492121"
+			"size"		"7"
+		}
+		"731"
+		{
+			"manifest"		"2615165013113912904"
+			"size"		"7"
+		}
+		"735"
+		{
+			"manifest"		"4568460569196247562"
+			"size"		"7"
+		}
+		"2347770"
+		{
+			"manifest"		"3022245820216436540"
+			"size"		"47491702074"
+		}
+		"2347771"
+		{
+			"manifest"		"6602066677015601690"
+			"size"		"808071207"
+		}
+		"2347774"
+		{
+			"manifest"		"2506907270420255040"
+			"size"		"1018065131"
+		}
+	}
+	"SharedDepots"
+	{
+		"228988"		"228980"
+		"228990"		"228980"
+	}
+	"UserConfig"
+	{
+		"language"		"turkish"
+		"DisabledDLC"		"2279721"
+	}
+	"MountedConfig"
+	{
+		"language"		"turkish"
+	}
+}
